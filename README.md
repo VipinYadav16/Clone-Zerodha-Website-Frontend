@@ -1,2 +1,2 @@
 # Clone-Zerodha-Website-Frontend
-# Frontend clone of wwebsite of Zerodha.
+Frontend clone of website of Zerodha.
